@@ -38,3 +38,13 @@
 **Copyright ©** 2020-3020 Md. Omar Faruk
 
 ## Go Through This Site Then You Will Know About This Site Properly.
+
+
+check whether django is installed or not
+python3 -m django --version
+
+if not installed, use
+pip3 install django
+
+then, from root folder runn -->
+python3 manage.py runserver
