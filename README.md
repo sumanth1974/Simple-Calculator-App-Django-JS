@@ -31,14 +31,6 @@
   <img width="660" height="300" src="static/ss/b.png">
 </p>
 
-### Let's celebrate 🍕🍰🍕
-
-### If you like my project, then simply give a star 🌟✰⭐✪🔯✨
-
-**Copyright ©** 2020-3020 Md. Omar Faruk
-
-## Go Through This Site Then You Will Know About This Site Properly.
-
 
 check whether django is installed or not
 python3 -m django --version
@@ -48,3 +40,8 @@ pip3 install django
 
 then, from root folder runn -->
 python3 manage.py runserver
+
+
+Find the docker image for this webapp calculator using this docker command
+
+docker pull sumanth1974/django-calculator:latest
